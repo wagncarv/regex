@@ -3,4 +3,4 @@ ca  r
 r   o s!
 `
 
-console.log(texto.match(/ca/g))
+console.log(texto.match(/ca\tr\nr\to\ss!/))
